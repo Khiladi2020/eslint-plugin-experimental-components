@@ -1,0 +1,9 @@
+{
+    "name": "eslint-plugin-experimental-components",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": {
+        "name": "Ravinder Singh",
+        "email": "ravimaan0123@gmail.com"
+    }
+}
