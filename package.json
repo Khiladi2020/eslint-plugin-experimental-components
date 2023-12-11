@@ -11,6 +11,10 @@
         "experimental",
         "experimental-components"
     ],
+    "files": [
+        "constants.js",
+        "utils.js"
+    ],
     "homepage": "https://github.com/Khiladi2020/eslint-plugin-experimental-components",
     "repository": "https://github.com/Khiladi2020/eslint-plugin-experimental-components",
     "author": {
