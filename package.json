@@ -2,6 +2,14 @@
     "name": "eslint-plugin-experimental-components",
     "version": "1.0.0",
     "main": "index.js",
+    "keywords": [
+        "eslint",
+        "eslint-plugin",
+        "eslintplugin",
+        "react",
+        "experimental",
+        "experimental-components"
+    ],
     "author": {
         "name": "Ravinder Singh",
         "email": "ravimaan0123@gmail.com"
