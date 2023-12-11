@@ -10,6 +10,8 @@
         "experimental",
         "experimental-components"
     ],
+    "homepage": "https://github.com/Khiladi2020/eslint-plugin-experimental-components",
+    "repository": "https://github.com/Khiladi2020/eslint-plugin-experimental-components",
     "author": {
         "name": "Ravinder Singh",
         "email": "ravimaan0123@gmail.com"
