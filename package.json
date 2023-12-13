@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-experimental-components",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Display an experimental indication for components or functions that have been flagged as experimental.",
     "main": "index.js",
     "keywords": [
